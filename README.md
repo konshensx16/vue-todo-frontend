@@ -32,3 +32,21 @@ This project is open for everyone, if you notice anything wrong with my code, or
 ## Questions
 
 Maybe this should've been above with the Contribution section but doesn't matter, if you have any question i think it would be nice to create an issue (Please open an issue no matter how trivial you think the question is, no one will charge you money for it) that way people with similar questions can look them up.
+
+## Screenshots
+
+### Login page
+![Login page](./login.png)
+
+### Sign-up page 
+![Signup page](./singup.png)
+
+### Lists (First page you see after login in)
+__ Notice how this list got a background :) __
+![Lists page](./lists.png)
+
+### Tasks (after selecting a list)
+![Tasks page](./tasks.png)
+
+### Notes (after clicking the edit icon on a task)
+![Notes page (modal)](./notes.png)
